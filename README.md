@@ -1,5 +1,5 @@
 # blockchain-basic
-##AlphaToken(ALP)
+## AlphaToken(ALP)
 
 token address:- 0x79090E53B3EFd2428a27b44a4b6681583C9A5F3a
 
