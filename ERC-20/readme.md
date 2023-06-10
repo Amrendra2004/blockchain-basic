@@ -4,7 +4,7 @@
 1. Create your MetaMask wallet (get the wallet address).
 2. In MetaMask go to setting then connect to Goreli Test-network.
 3. At the moment you will not have any GoreliETH, so we need to mine it.
-4. From https://goerli-faucet.pk910.de/ this website you cane mine GoreliETH by using your wallet address. Then mine more then 0.01 .
+4. From https://goerli-faucet.pk910.de/ this website you can mine GoreliETH by using your wallet address. Then mine more then 0.01 .
 
 ## 20lab
 1. Go to https://20lab.app/ this website.(20lab is an ERC-20 token generator tool)
