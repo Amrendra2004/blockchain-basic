@@ -1,4 +1,4 @@
-# Here are some step to deploy erc20 or create your own token.
+# Here are some step to deploy ERC-20 or create your own token.
 
 ## MetaMask
 1. Create your MetaMask wallet (get the wallet address).
@@ -11,4 +11,5 @@
 2. Click Open App, then click on start.
 3. Choose blockchain Goreli(Testnet), then enter your Token name, Token symbol, Initial supply (take very large number), 18 Decimals.
 4. Click save and next then choose minTable enter your max supply, Then rest is default.
-5. 
+5. Then velidate and compile, it will connect to your MetaMask for GoreliETH.
+6. Then your Token 
