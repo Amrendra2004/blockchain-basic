@@ -48,6 +48,6 @@ To install binaries for Fabric samples you can use the command below:
 
         ./network.sh up
 
-###               Now our first Hyperledger Fabric Network is successfully running.
+###       By using above steps you can create your first Hyperledger Fabric Network.
 
 
