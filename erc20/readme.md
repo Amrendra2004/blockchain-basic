@@ -12,4 +12,7 @@
 3. Choose blockchain Goreli(Testnet), then enter your Token name, Token symbol, Initial supply (take very large number), 18 Decimals.
 4. Click save and next then choose minTable enter your max supply, Then rest is default.
 5. Then velidate and compile, it will connect to your MetaMask for GoreliETH.
-6. Then your Token 
+6. Then you can see your Tokan name and address.
+
+### Go to https://goerli.etherscan.io/ this website then give your Token address in search-bar or click Etherscan icon below your tockan address. 
+Now, you can see your transactions history of that Token.
