@@ -1,1 +1,14 @@
+# Here are some step to deploy erc20 or create your own token.
 
+## MetaMask
+1. Create your MetaMask wallet (get the wallet address).
+2. In MetaMask go to setting then connect to Goreli Test-network.
+3. At the moment you will not have any GoreliETH, so we need to mine it.
+4. From https://goerli-faucet.pk910.de/ this website you cane mine GoreliETH by using your wallet address. Then mine more then 0.01 .
+
+## 20lab
+1. Go to https://20lab.app/ this website.(20lab is an ERC-20 token generator tool)
+2. Click Open App, then click on start.
+3. Choose blockchain Goreli(Testnet), then enter your Token name, Token symbol, Initial supply (take very large number), 18 Decimals.
+4. Click save and next then choose minTable enter your max supply, Then rest is default.
+5. 
