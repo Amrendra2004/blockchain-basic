@@ -14,5 +14,5 @@
 5. Then velidate and compile, it will connect to your MetaMask for GoreliETH (gas fee).
 6. Then you can see your Tokan name and address.
 
-### Go to https://goerli.etherscan.io/ this website then give your Token address in search-bar or click Etherscan icon below your tockan address. 
+### Go to https://goerli.etherscan.io/ this website then give your Token address in search-bar or click Etherscan icon below your token address. 
 Now, you can see your transactions history of that Token.
