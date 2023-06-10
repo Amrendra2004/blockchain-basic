@@ -1,4 +1,4 @@
-# Here are some step to deploy ERC-20 or create your own token.
+# Here are some step to deploy ERC-20 or creating a Token.
 
 ## MetaMask
 1. Create your MetaMask wallet (get the wallet address).
