@@ -10,8 +10,8 @@
 1. Go to https://20lab.app/ this website.(20lab is an ERC-20 token generator tool)
 2. Click Open App, then click on start.
 3. Choose blockchain Goreli(Testnet), then enter your Token name, Token symbol, Initial supply (take very large number), 18 Decimals.
-4. Click save and next then choose minTable enter your max supply, Then rest is default.
-5. Then velidate and compile, it will connect to your MetaMask for GoreliETH.
+4. Now, you can choose the desired features you want then save it.
+5. Then velidate and compile, it will connect to your MetaMask for GoreliETH (gas fee).
 6. Then you can see your Tokan name and address.
 
 ### Go to https://goerli.etherscan.io/ this website then give your Token address in search-bar or click Etherscan icon below your tockan address. 
