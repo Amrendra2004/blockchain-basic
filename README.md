@@ -16,3 +16,5 @@
 
 ### Go to https://goerli.etherscan.io/ this website then give your Token address in search-bar or click Etherscan icon below your token address in 20lab. 
 Now, you can see your transactions history of that Token.
+
+![Screenshot (56)](https://github.com/Amrendra2004/blockchain-basic/assets/118886890/392932f5-5931-4cab-a208-68027b866d81)
