@@ -20,7 +20,6 @@ Now, you can see your transactions history of that Token.
 ![Screenshot (56)](https://github.com/Amrendra2004/blockchain-basic/assets/118886890/392932f5-5931-4cab-a208-68027b866d81)
 
 # Using a Development Environment such as Remix to compile and deploy your smart contract.
-### Navigate to [remix](remix.ethereum.org) and select contracts > 1_Storage.sol from the File Explorers pane.
 ## Create or Modify the existing smart contract:
         // SPDX-License-Identifier: MIT
         pragma solidity ^0.8.17;
@@ -44,5 +43,6 @@ Now, you can see your transactions history of that Token.
 #### 4. Click Deploy and select Confirm in the MetaMask notification window to pay for the transaction.
 ## View Contract Details:
 #### Copy the contract address from the Deployed Contracts window on the left panel & head to [Etherscan](https://etherscan.io/) explore the details of your deployed smart contract.
-![image](https://github.com/Mehul6112/Hyperledger-Fabric-curve/assets/119481480/1f430b8b-05c2-4998-a386-d10bb1b6f1a8)
+
+![Screenshot (59)](https://github.com/Amrendra2004/blockchain-basic/assets/118886890/8db451b2-f749-4d3e-b650-c1eb08a1c77a)
 
