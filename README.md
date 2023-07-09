@@ -34,7 +34,7 @@ Now, you can see your transactions history of that Token.
             }
         }
 #### Note: You can look more into it from [Solidity docs](https://docs.soliditylang.org/en/latest/) and [Solidity by Example](https://solidity-by-example.org/)
-## Compile using Solidity Compiler(left nav pane):
+## Compile using Solidity Compiler:
 #### Check that your compiler version is same as the versions specified in the pragma solidity statement(0.8.17)
 ## Deploy the Contract:
 #### 1. Click the Deploy and Run Transactions Icon on the left side menu.
