@@ -22,7 +22,7 @@ Now, you can see your transactions history of that Token.
 # Using a Development Environment such as Remix to compile and deploy your smart contract.
 ## Create or Modify the existing smart contract:
         // SPDX-License-Identifier: MIT
-        pragma solidity ^0.8.17;
+        pragma solidity ^0.8.18;
 
         import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v4.0.0/contracts/token/ERC20/ERC20.sol";
 
@@ -35,7 +35,7 @@ Now, you can see your transactions history of that Token.
         }
 #### Note: You can look more into it from [Solidity docs](https://docs.soliditylang.org/en/latest/) and [Solidity by Example](https://solidity-by-example.org/)
 ## Compile using Solidity Compiler:
-#### Check that your compiler version is same as the versions specified in the pragma solidity statement(0.8.17)
+#### Check that your compiler version is same as the versions specified in the pragma solidity statement(0.8.18)
 ## Deploy the Contract:
 #### 1. Click the Deploy and Run Transactions Icon on the left side menu.
 #### 2. Choose Injected Web3 as your environment.
