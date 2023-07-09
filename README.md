@@ -42,7 +42,7 @@ Now, you can see your transactions history of that Token.
 #### 3. Connect MetaMask to GoerliTest net.
 #### 4. Click Deploy and select Confirm in the MetaMask notification window to pay for the transaction.
 ## View Contract Details:
-#### Copy the contract address from the Deployed Contracts window on the left panel & head to [Etherscan](https://etherscan.io/) explore the details of your deployed smart contract.
+#### Copy the contract address from the Deployed Contracts window on the left panel & head to [Goerli.Etherscan](https://goerli.etherscan.io) explore the details of your deployed smart contract.
 
 ![Screenshot (59)](https://github.com/Amrendra2004/blockchain-basic/assets/118886890/8db451b2-f749-4d3e-b650-c1eb08a1c77a)
 
